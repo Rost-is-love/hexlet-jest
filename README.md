@@ -1,0 +1,1 @@
+[![Node CI](https://github.com/Rost-is-love/hexlet-jest/workflows/Node%20CI/badge.svg)](https://github.com/Rost-is-love/hexlet-jest/actions)
